@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BabySitter</string>
+    <string name="title_activity_babbysitter_cal_results">BabbysitterCalResults</string>
+</resources>
